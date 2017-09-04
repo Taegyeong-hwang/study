@@ -10,3 +10,6 @@ node_module
 # 임시파일
 *.tmp
 *~
+
+#ES5 디렉터리
+public/dist
